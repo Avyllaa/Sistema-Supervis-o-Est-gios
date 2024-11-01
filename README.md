@@ -1,1 +1,1 @@
-# Sistema-Supervis-o-Est-gios
+# Sistema-Supervisao-Estagios
