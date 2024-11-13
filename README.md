@@ -1,1 +1,0 @@
-# Sistema-Supervisao-Estagios
